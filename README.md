@@ -1,7 +1,7 @@
 # HR-Analysis-Dashboard.
 This project presents a comprehensive Power BI dashboard for analyzing employee data from an HR perspective. It covers workforce distribution, attrition trends, performance ratings, and key business insights across multiple dimensions such as job role, gender, department, education, and more.
 
-📊 Dashboard Overview
+**📊 Dashboard Overview**
 - Total Employees: 1,470
 - Active Employees: 1,233
 - Attrition Count: 237
@@ -12,7 +12,7 @@ This project presents a comprehensive Power BI dashboard for analyzing employee 
 
 ![Screenshot 2025-05-16 212353](https://github.com/user-attachments/assets/2b4d506e-0d07-4c63-baa8-dac95e44c4e9)
 
-Active Employees Analysis
+**Active Employees Analysis**
 - Out of 1,470 total employees, 1,233 remain active, reflecting a moderate attrition rate of 16% and a relatively stable workforce.
 - The company is powered largely by mid-career professionals, particularly those aged 35–44, who form the largest age group.
 - The gender distribution is balanced, with a slight male majority. Notably, the R&D department stands out for both its size and its strong female representation.
@@ -25,7 +25,7 @@ Active Employees Analysis
 
 ![Screenshot 2025-05-16 212513](https://github.com/user-attachments/assets/ca4543e1-9868-4be4-8e98-239a7d73948a)
 
-Attrition Analysis
+**Attrition Analysis**
 - A key operational insight: those who travel rarely but work overtime are leaving at the highest rates, pointing to possible burnout or lack of reward for extra effort.
 - Sales sees the highest attrition, especially among female employees, suggesting potential issues with role satisfaction, workload, or work-life balance in that department.
 - Employees with Bachelor’s degrees have the highest attrition, while Doctoral degree holders show the most loyalty—possibly due to specialized roles or limited external opportunities.
@@ -33,7 +33,7 @@ Attrition Analysis
 - While average performers leave most often, top performers remain, suggesting that recognition and growth opportunities are effectively retaining high-value talent.
 - Employees with low job satisfaction (level 1 or 2) are significantly more likely to leave, especially in roles like HR, suggesting dissatisfaction is a key driver of attrition in specific departments.
 
-📌 Technologies Used
+**📌 Technologies Used**
 - Power BI for dashboard creation
 - Data visualization techniques for actionable insights
 - DAX functions, slicers for interactivity
